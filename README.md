@@ -54,6 +54,10 @@ XXXX | XXXXX | [XXX](#) | [@XXX](#) |
 
 ## 前端技术
 
+#### HTML
+
+#### CSS
+
 #### JavaScript
 
 #### 框架
