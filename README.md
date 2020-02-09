@@ -35,7 +35,7 @@
 
 标题 | 内容介绍 | 链接 | 贡献人
 | :---: | :---: | :---: | :---: |
-循环分支讲解 | 主要讲解Java中几种循环的用法 | [https://imyi.ren](https://imyi.ren) | [@imyiren](https://github.com/imyiren) | 
+循环分支讲解 | 主要讲解Java中几种循环的用法 | [/zustcs/533-lab-materials/blob/master/README.md](https://github.com/zustcs/533-lab-materials/blob/master/README.md) | [@imyiren](https://github.com/imyiren) | 
 XXXX | XXXXX | [XXX](#) | [@XXX](#) | 
 
 #### 框架
