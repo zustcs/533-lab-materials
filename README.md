@@ -1,7 +1,7 @@
 # 533-lab-materials
 
 ## resp介绍
-- 来着浙江科技学院信息学院国际教育基地533实验室共享的计算机相关资料。。。。。。。。。。等等描述
+- 来自浙江科技学院信息学院国际教育基地533实验室共享的计算机相关资料。
 
 
 ## 计算机基础
@@ -38,7 +38,7 @@
 
 标题 | 内容介绍 | 链接 | 贡献人
 | :---: | :---: | :---: | :---: |
-循环分支讲解（示例） | 主要讲解Java中几种循环的用法 | [/zustcs/README.md](https://github.com/zustcs/533-lab-materials/blob/master/README.md) | [@imyiren](https://github.com/imyiren) | 
+java源码 | 主要讲解Stram | [/zustcs/后端技术/Java/基础/java源码/stream.md](https://github.com/zustcs/533-lab-materials/blob/master/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF/Java/%E5%9F%BA%E7%A1%80/java%E6%BA%90%E7%A0%81/stream.md) | [@imyiren](https://github.com/imyiren) | 
 XXXX | XXXXX | [XXX](#) | [@XXX](#) | 
 
 ------
